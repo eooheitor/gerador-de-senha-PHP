@@ -1,0 +1,60 @@
+.container {
+    height: 400px;
+    text-align: center;
+    margin-top: 300px;
+    border-radius: 40px;
+    background-color: #fff !important;
+    border: solid 5px #fff;
+    width: 600px !important;
+}
+
+
+input:checked {
+    background-color: #000 !important;
+}
+
+input {
+    border: none !important;
+    border-radius: 5px;
+    background-color: #ea6614 !important;
+}
+
+.inputs {
+    margin-top: 24px;
+    font-size: 18px;
+    text-align: justify;
+    margin-left: 140px;
+}
+
+.btn-primary {
+    background-color: #000 !important;
+    border: 1px solid #fff !important;
+    border-radius: 5px !important;
+    margin-bottom: 8px;
+}
+
+.btn-copiar {
+    margin-top: 30px;
+}
+
+
+.body {
+    background-color: #ea6614;
+}
+
+
+.logo {
+    margin-top: 20px;
+    width: 200px;
+}
+
+.place {
+    padding-top: 8px !important;
+    padding-bottom:3px !important;
+    background-color: #ea6614;
+    color: #000;
+}
+
+.--bs-form-check-bg {
+    background-color: #ea6614 !important;
+}
